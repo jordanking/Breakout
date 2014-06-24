@@ -41,7 +41,7 @@ package main;
  * 3/2 : 12:00 - 14:00 >> 2:00 16:00  more  Fiddled with stuff, time is underestimated here
  * 3/3 : 00:00 - 02:00 >> 2:00 18:00  2000  Worked on balance, refactoring too 
  * 3/6 : I have worked on this off and on, and have given up on the log.
- * 6/30: Lookin at it again				 ~2200
+ * 6/30: Lookin at it again!				 ~2200
  */
 
 
